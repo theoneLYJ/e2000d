@@ -1,0 +1,1 @@
+cmd_/home/theonelyj/e2000d/02drv/09sh1106/i2c_sh1106.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o /home/theonelyj/e2000d/02drv/09sh1106/i2c_sh1106.ko /home/theonelyj/e2000d/02drv/09sh1106/i2c_sh1106.o /home/theonelyj/e2000d/02drv/09sh1106/i2c_sh1106.mod.o ;  true
